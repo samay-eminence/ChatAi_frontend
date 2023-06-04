@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://chatai-backend-89s7.onrender.com/:splat"
+  status = 200
